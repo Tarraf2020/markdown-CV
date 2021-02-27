@@ -2,9 +2,7 @@
 ### Web Developer
 ##### Phone number: +961 71 421 157
 ##### Email adress: ali.tarraf2017@gmail.com
-<span style="color:red">Lebanon</span>
 <br />
-
 
 # ABOUT 
 ```
